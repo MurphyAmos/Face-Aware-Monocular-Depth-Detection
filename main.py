@@ -55,7 +55,7 @@ def find_depth(found_object,face_id):
 
 count = 0
 fc = 1
-cap = cv2.VideoCapture("YTDown.com_Shorts_John-cena-bing-chilling-ORIGINAL-1080p_Media_HWQqabCkAjU_001_480p.mp4")
+cap = cv2.VideoCapture({Enter Video File Name here})
 source_fps = cap.get(cv2.CAP_PROP_FPS)/fc
 if not cap.isOpened():
     print("Error: Could not open video file.")
