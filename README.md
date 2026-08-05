@@ -21,7 +21,7 @@ Note: this is near-real-time, not hard real-time. The processing is bound by inf
 <table>
   <tr>
     <td><img src="demos/original.gif" width="400"/></td>
-    <td><img src="demos/depth-overlay.gif" width="400"/></td>
+    <td><img src="demos/ay5rf9.gif" width="400"/></td>
   </tr>
   <tr>
     <td align="center">Original</td>
