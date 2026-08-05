@@ -43,8 +43,8 @@ Note: this is near-real-time, not hard real-time. The processing is bound by inf
 Clone the repository:
 
 ```bash
-git clone https://github.com/MurphyAmos/Face-Aware-Depth-Overlay.git
-cd Face-Aware-Depth-Overlay
+git clone https://github.com/MurphyAmos/Face-Aware-Monocular-Depth-Detection.git
+cd Face-Aware-Monocular-Depth-Detection
 ```
 
 Install dependencies:
