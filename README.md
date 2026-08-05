@@ -14,7 +14,7 @@ Instead of running depth estimation on every pixel of every frame, this project 
 5. **Heatmap blending.** The smoothed depth map is converted to a JET colormap and alpha-blended back onto the original face region, rather than replacing the frame outright.
 6. **Video encoding.** Blended frames are written to the output video at a framerate scaled to the source capture rate, adjusted for the frame-skip factor.
 
-Note: this is near-real-time, not hard real-time — processing is throughput-bound by inference speed, so if inference can't keep pace with the camera or source video, the live preview will lag slightly behind.
+Note: this is near-real-time, not hard real-time. The processing is bound by inference speed, so if inference can't keep pace with the camera or source video, the live preview will lag slightly behind.
 
 ## Demo
 
