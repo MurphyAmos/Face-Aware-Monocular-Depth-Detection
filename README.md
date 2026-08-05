@@ -83,4 +83,3 @@ Output is written to `test.mp4` in the working directory. A `test` flag is avail
 
 After solving frame-to-frame flicker in the full-frame depth pipeline, the natural next question was whether the same idea could be narrowed and applied more precisely, tracking depth on just the parts of a frame that actually matter, like faces, instead of the whole scene.
 
-One real thing worth knowing before you clean th
